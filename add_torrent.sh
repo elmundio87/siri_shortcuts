@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Add torrent files to Deluge via the JSON RPC API
+# Download your favourite Linux distros in one easy script that can be driven by Siri shortcuts.
+
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 
 deluge_password=$1
